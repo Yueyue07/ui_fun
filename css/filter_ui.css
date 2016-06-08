@@ -1,0 +1,35 @@
+
+#search {
+  padding: 70px 0;
+}
+
+#search .btn {
+  border-radius: 4px;
+}
+
+#search-form .col-md-4 {
+  margin-bottom: 16px;
+}
+
+#search-form {
+  margin-left: 9px;
+  margin-bottom: 40px;
+}
+
+#search-details .search-button {
+  text-transform: none;
+  width: 100%;
+  font-size: 18px;
+  color:#f05f40;
+}
+
+
+#search-details {
+  margin-left: 9px;
+}
+#search-details .col-md-2 {
+  margin-bottom: 16px;
+}
+#search-details .form-control {
+  border: none;
+}
